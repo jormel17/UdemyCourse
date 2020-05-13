@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="testng-6">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/LIB/testng-6.11" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/LIB/testng-6.11" recursive="false" />
+  </library>
+</component>
