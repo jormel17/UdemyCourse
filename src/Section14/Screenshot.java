@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class Screenshot {
     public static void main(String[] args) throws InterruptedException, IOException {
-
+///
         //Variables
         System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\driver\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
