@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba94e17-adba-4269-9339-e41f6546f733" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Section14/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section14/Screenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,12 +115,12 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.PRuba" />
       <item itemvalue="Application.Assigment" />
       <item itemvalue="Application.Calendar" />
-      <item itemvalue="Application.TablesExcersice" />
       <item itemvalue="Application.JavaScript" />
+      <item itemvalue="Application.PRuba" />
       <item itemvalue="Application.Screenshot" />
+      <item itemvalue="Application.TablesExcersice" />
     </list>
     <recent_temporary>
       <list>
@@ -202,6 +202,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588950243221" />
+    <state x="65" y="0" key="new project wizard" timestamp="1589891998588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1589891998588" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1588005043319">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
