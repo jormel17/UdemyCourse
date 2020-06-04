@@ -6,7 +6,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class PRuba {
     public static void main(String[] args) {
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\d\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.bancoestado.cl/imagenes/comun2008/banca-en-linea-personas.html");
 

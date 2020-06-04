@@ -14,7 +14,7 @@ public class ExplicitWait {
 
     public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\d\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("http:www.itgeared.com/demo/1506-ajax-loading.html");
         driver.manage().window().maximize();

@@ -3,6 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="dba94e17-adba-4269-9339-e41f6546f733" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section9/ExplicitWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9/ExplicitWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section9/arraysCompras.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9/arraysCompras.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section9/arraysREal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section9/arraysREal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Section8/DropDowm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Section8/DropDowm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Section8/Dynamic_DropDowm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Section8/Dynamic_DropDowm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Section8/E2E.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Section8/E2E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Section8/PRuba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Section8/PRuba.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +41,9 @@
       <recent name="Test.Section8" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Screenshot">
-    <configuration name="Assigment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section12.GettingLinkOtherWindow.Assigment" />
+  <component name="RunManager" selected="Application.DropDowm">
+    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section12.GettingLinkOtherWindow.Calendar" />
       <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
@@ -48,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Section12.GettingLinkOtherWindow.Calendar" />
+    <configuration name="DropDowm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.Section8.DropDowm" />
       <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Section12.GettingLinkOtherWindow.*" />
+          <option name="PATTERN" value="Test.Section8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,20 +122,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Assigment" />
+      <item itemvalue="Application.PRuba" />
       <item itemvalue="Application.Calendar" />
       <item itemvalue="Application.JavaScript" />
-      <item itemvalue="Application.PRuba" />
       <item itemvalue="Application.Screenshot" />
       <item itemvalue="Application.TablesExcersice" />
+      <item itemvalue="Application.DropDowm" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DropDowm" />
         <item itemvalue="Application.Screenshot" />
         <item itemvalue="Application.JavaScript" />
         <item itemvalue="Application.TablesExcersice" />
         <item itemvalue="Application.Calendar" />
-        <item itemvalue="Application.Assigment" />
       </list>
     </recent_temporary>
   </component>
@@ -166,22 +173,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1366.728@0.0.1366.728" timestamp="1589378339199" />
-    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1589373727789">
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom" timestamp="1591302300206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589373727789" />
-    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1589373727788">
+    <state width="1323" height="161" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591302300206" />
+    <state width="1323" height="161" key="GridCell.Tab.0.center" timestamp="1591302300206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589373727788" />
-    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1589373727788">
+    <state width="1323" height="161" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591302300206" />
+    <state width="1323" height="161" key="GridCell.Tab.0.left" timestamp="1591302300206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589373727788" />
-    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1589373727788">
+    <state width="1323" height="161" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591302300206" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right" timestamp="1591302300206">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589373727788" />
+    <state width="1323" height="161" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591302300206" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1589288446588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -198,10 +205,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589288446588" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1588950243221">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591302090840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588950243221" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591302090840" />
     <state x="65" y="0" key="new project wizard" timestamp="1589891998588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

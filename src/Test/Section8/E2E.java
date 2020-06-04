@@ -9,7 +9,7 @@ public class E2E {
 
     public static void main(String[] args) throws InterruptedException {
 
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\d\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.spicejet.com/");
         driver.manage().window().maximize();

@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 public class arraysREal {
     public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver", System.getProperty("user.dir") + "\\driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\d\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         driver.get("https://rahulshettyacademy.com/seleniumPractise/");
         driver.manage().window().maximize();
